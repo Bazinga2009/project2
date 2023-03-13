@@ -1,0 +1,7 @@
+use terminal
+/ pulls the latest version from github
+git pull
+
+/updates github repository
+git commit -m "commit name here"
+git push
