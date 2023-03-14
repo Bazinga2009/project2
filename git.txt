@@ -1,7 +1,11 @@
 use terminal
 / pulls the latest version from github
+There is terminal button in top of window where file, edit, selection etc is. u should be able to find dumbass
 git pull
 
 /updates github repository
+git add *
 git commit -m "commit name here"
 git push
+
+
