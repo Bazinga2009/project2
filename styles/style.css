@@ -1,32 +1,30 @@
 body {
-    padding: 0;
-    margin: 0;
-    background-color:  lightgrey;
+  padding: 0;
+  margin: 0;
+  background-color: lightgrey;
 }
 
-img{
-    border: 15px double green;
-    padding: 15px;
-    border-radius: 15px;
+img {
+  border: 15px double darkslategrey;
+  padding: 20px;
+  border-radius: 15px;
 }
 
 .topnav {
-    overflow: hidden;
-    background-color: #333;
-  }
-  
-  .topnav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  
-  }
-  
-  .topnav a:hover {
-    background-color: #04AA6D;
-    color: white;
-  
-  }
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #04aa6d;
+  color: white;
+}
